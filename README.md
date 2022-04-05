@@ -58,21 +58,21 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/2.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/3.JPG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/4.JPG)
 ### One to One chat
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/6.JPG)
 ### Search Users
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/5.JPG)
 ### Create Group Chats
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/7.JPG)
 ### Notifications 
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/9.JPG)
 ### Add or Remove users from group
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/8.JPG)
 ### View Other user Profile
-![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/11.JPG)
+![](https://github.com/krishanweb2206/Baatien-Karo/blob/main/screenshots/10.JPG)
 
   
